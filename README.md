@@ -3,17 +3,17 @@
 
 [![what does cpu mean](redd.png)](https://github.com/workvibes/what.does.cpu.mean)
 
-CPU is short for Central Processing Unit. It is also known as a processor or microporcessor.
+* CPU is short for Central Processing Unit. It is also known as a processor or microporcessor.
 
-It's one of the most important pieces of hardware in any digital computing system – if not the most important.
+* It's one of the most important pieces of hardware in any digital computing system – if not the most important.
 
-Inside a CPU there are thousands of microscopic transistors, which are tiny switches that control the flow of electricity through the integrated circuits.
+* Inside a CPU there are thousands of microscopic transistors, which are tiny switches that control the flow of electricity through the integrated circuits.
 
-You'll find the CPU located on a computer's motherboard.
+* You'll find the CPU located on a computer's motherboard.
 
-A computer's motherboard is the main circuit board inside a computer. Its job is to connect all hardware components together.
+* A computer's motherboard is the main circuit board inside a computer. Its job is to connect all hardware components together.
 
-Often referred to as the brain and heart of all digital systems, a CPU is responsible for doing all the work. It performs every single action a computer does and executes programs.
+* Often referred to as the brain and heart of all digital systems, a CPU is responsible for doing all the work. It performs every single action a computer does and executes programs.
 
 
 
